@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/astrosat-notes/precache-manifest.b2ea4e9b096ad6aefcd2ad31dbc30e4e.js"
+  "/astrosat-notes/precache-manifest.7975b88fc43d80ec9dcd110456d9cb23.js"
 );
 
 workbox.clientsClaim();
