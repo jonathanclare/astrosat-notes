@@ -1,13 +1,13 @@
 {
-  "main.css": "/astrosat-notes/static/css/main.bfb9a6c4.chunk.css",
-  "main.js": "/astrosat-notes/static/js/main.7d2899b4.chunk.js",
-  "main.js.map": "/astrosat-notes/static/js/main.7d2899b4.chunk.js.map",
-  "static/js/1.74a29ea7.chunk.js": "/astrosat-notes/static/js/1.74a29ea7.chunk.js",
-  "static/js/1.74a29ea7.chunk.js.map": "/astrosat-notes/static/js/1.74a29ea7.chunk.js.map",
+  "main.css": "/astrosat-notes/static/css/main.e749d824.chunk.css",
+  "main.js": "/astrosat-notes/static/js/main.0c009c01.chunk.js",
+  "main.js.map": "/astrosat-notes/static/js/main.0c009c01.chunk.js.map",
+  "static/js/1.630d9daf.chunk.js": "/astrosat-notes/static/js/1.630d9daf.chunk.js",
+  "static/js/1.630d9daf.chunk.js.map": "/astrosat-notes/static/js/1.630d9daf.chunk.js.map",
   "runtime~main.js": "/astrosat-notes/static/js/runtime~main.2371c74b.js",
   "runtime~main.js.map": "/astrosat-notes/static/js/runtime~main.2371c74b.js.map",
-  "static/css/main.bfb9a6c4.chunk.css.map": "/astrosat-notes/static/css/main.bfb9a6c4.chunk.css.map",
+  "static/css/main.e749d824.chunk.css.map": "/astrosat-notes/static/css/main.e749d824.chunk.css.map",
   "index.html": "/astrosat-notes/index.html",
-  "precache-manifest.da400a42a1a000a7410722c5b733c64a.js": "/astrosat-notes/precache-manifest.da400a42a1a000a7410722c5b733c64a.js",
+  "precache-manifest.379453976a97ba9ca8474c6ef0b0f1a6.js": "/astrosat-notes/precache-manifest.379453976a97ba9ca8474c6ef0b0f1a6.js",
   "service-worker.js": "/astrosat-notes/service-worker.js"
 }
